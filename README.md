@@ -1,4 +1,5 @@
 Customer Segmentation Analysis
+
 📊 Overview
 This project analyzes customer data to segment them based on behavior and spending patterns using Power BI.
 
